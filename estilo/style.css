@@ -94,7 +94,7 @@ div:hover >p{
     display: block;
 }
 
-div.ctt:hover{
+div:hover.ctt{
      background-color: var(--cor2);
     color: var(--cor5);
 }
