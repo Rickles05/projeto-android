@@ -90,6 +90,10 @@ div >p{
     display: none;
 }
 
+div:hover >p{
+    display: block;
+}
+
 main{
     min-width: 300px;
     max-width: 1000px;
