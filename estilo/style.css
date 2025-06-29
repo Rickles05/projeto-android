@@ -86,6 +86,10 @@ nav >a:hover{
     color: var(--cor5);
 }
 
+div >p{
+    display: none;
+}
+
 main{
     min-width: 300px;
     max-width: 1000px;
