@@ -86,22 +86,6 @@ nav >a:hover{
     color: var(--cor5);
 }
 
-div >p{
-    display: none;  
-}
-
-div:hover >p{
-    display: block;
-    color: white;
-    font-weight: bolder;
-}
-
-a.ctt:hover{
-     background-color: var(--cor2);
-    color: var(--cor5);
-}
-
-
 main{
     min-width: 300px;
     max-width: 1000px;
@@ -227,7 +211,3 @@ footer a:hover{
 
 }
 
-div{
-    display: inline;
-
-}
