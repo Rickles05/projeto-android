@@ -94,6 +94,12 @@ div:hover >p{
     display: block;
 }
 
+div.ctt:hover{
+     background-color: var(--cor2);
+    color: var(--cor5);
+}
+
+
 main{
     min-width: 300px;
     max-width: 1000px;
