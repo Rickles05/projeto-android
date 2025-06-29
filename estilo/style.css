@@ -88,6 +88,8 @@ nav >a:hover{
 
 div >p{
     display: none;
+    color: white;
+    font-weight: bolder;
 }
 
 div:hover >p{
